@@ -6,7 +6,7 @@ The HP 210 G1 is known for running Windows 7, 8, or even 10. Developers often pr
 # Note
 This EFI file enables dual booting macOS and Windows. Please note that this project is a work in progress and is not the final release yet.
 # My laptop specifications
-CPU: Core i3 4010U 1.7 <br>
-GPU: Intel HD 4400 <br>
-Ram: 4GB <br>
-DISK: HDD 320 GB (EXTERNAL) <br>
+**Processor:** Intel Core i3-4010U, 1.7 GHz  
+**Graphics:** Intel HD Graphics 4400  
+**Memory:** 4 GB RAM  
+**Storage:** 320 GB External HDD
