@@ -10,3 +10,5 @@ This EFI file enables dual booting macOS and Windows if you want to boot macOS o
 **Graphics:** Intel HD Graphics 4400  
 **Memory:** 4 GB RAM  
 **Storage:** 320 GB External HDD
+# Co-Dev
+Thanks to the developer [Mo'men Abdulrazek](https://www.facebook.com/MOMEN.abdulrazek.ali?mibextid=ZbWKwL) from [Arabic Hackintosh Team](https://www.facebook.com/groups/Arabic.hackintosh/?ref=share&mibextid=qtnXGe)
