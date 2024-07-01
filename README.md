@@ -11,7 +11,7 @@ This EFI file enables dual booting macOS and Windows if you want to boot macOS o
 **Memory:** 4 GB RAM  
 **Storage:** 320 GB External HDD
 # What's not working...!
-You have to install [Haliport]() for WIFI 
+You have to install [Haliport](https://objects.githubusercontent.com/github-production-release-asset-2e65be/817599631/ab6e176e-a3cc-44c7-891b-9be01e3cb64c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240701%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240701T233022Z&X-Amz-Expires=300&X-Amz-Signature=3b9089355593ef0ae3b2d339b751584add0b8010fd6af676b2ad5c42b9f8218c&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=817599631&response-content-disposition=attachment%3B%20filename%3DHeliPort.Wi-Fi.dmg&response-content-type=application%2Foctet-stream) for WIFI 
 Webcam
 # Co-Dev
 Thanks to the developer [Mo'men Abdulrazek](https://www.facebook.com/MOMEN.abdulrazek.ali?mibextid=ZbWKwL) from [Arabic Hackintosh Team](https://www.facebook.com/groups/Arabic.hackintosh/?ref=share&mibextid=qtnXGe) for his consultation in fixing some missing drivers
