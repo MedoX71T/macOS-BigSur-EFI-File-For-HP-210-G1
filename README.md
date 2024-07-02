@@ -1,9 +1,9 @@
-<p>
+
 ![5368429_macOS-Big-Sur](https://github.com/MedoX71T/macOS-BigSur-EFI-File-For-HP-210-G1/assets/53842328/d0fa91df-cd52-438a-8709-70ed757ac8a3)
 ![GitHub License](https://img.shields.io/github/license/MedoX71T/macOS-BigSur-EFI-File-For-HP-210-G1)
 ![GitHub Release](https://img.shields.io/github/v/release/MedoX71T/macOS-BigSur-EFI-File-For-HP-210-G1)
 ![GitHub branch status](https://img.shields.io/github/checks-status/MedoX71T/macOS-BigSur-EFI-File-For-HP-210-G1/main)
-<p>
+
 
 
 # Description
